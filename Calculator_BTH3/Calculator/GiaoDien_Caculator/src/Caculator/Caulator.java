@@ -651,6 +651,7 @@ public class Caulator extends javax.swing.JFrame {
                 new Caulator().setVisible(true);
             }
         });
+        System.out.println("Finish or NOT !");
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
